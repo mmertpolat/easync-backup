@@ -86,7 +86,7 @@ input:focus { box-shadow: inset 0 -5px 45px rgba(100,100,100,0.4), 0 1px 1px rgb
         <input type="password" name="password" placeholder="Parola" required="required" />
         <button type="submit" class="btn btn-primary btn-block btn-large">Giriş</button>
     </form><br>
-    <center><a style="color:white;">script by</a> <a style="text-decoration:none;color:white;" href="http://muhammedmertpolat.com">muhammedmertpolat.com</a></center>
+    <center><a style="color:white;">script by</a> <a target="_blank" style="text-decoration:none;color:white;" href="http://muhammedmertpolat.com">muhammedmertpolat.com</a></center>
 </div>
 </body>
 </html>
