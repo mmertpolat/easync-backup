@@ -35,8 +35,6 @@ Just copy the project files to the directory you want to get full backup. If you
 If you want get backup of database, you should complete database information fields.
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Built With
 
 * [PHP](http://www.php.net) - The programming language used.
