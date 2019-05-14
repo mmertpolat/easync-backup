@@ -35,6 +35,8 @@ Just copy the project files to the directory you want to get full backup. If you
 If you want get backup of database, you should complete database information fields.
 ```
 
+For upload backup to Google Drive account, you should visit /drive folder after you got backup.
+
 ## Built With
 
 * [PHP](http://www.php.net) - The programming language used.
